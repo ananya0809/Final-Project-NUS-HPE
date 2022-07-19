@@ -1,0 +1,2 @@
+- only_tac.csv is for all the readings that are above threshold value and classified as 1 for the given pid 'MJ8002'.
+- no_tac.csv is for all the readings that are below the threshold value and classified as 0 for the given pid 'MJ8002'.
